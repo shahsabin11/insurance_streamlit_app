@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="M3 Insurance Analytics", page_icon="🏥", layout="wide")
 
 # Title and description
-st.title("🏥 M3 Insurance Analytics Dashboard")
+st.title("🏥 Insurance Analytics Dashboard by Sabin Shah")
 st.markdown("**Interactive analysis of insurance data for data-driven insights**")
 
 # File uploader
